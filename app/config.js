@@ -43,7 +43,7 @@ require([
   'app'
 ], function(angular, app) {
 
-  console.info("Stride Web initialized");
+  console.info("Sample Web initialized");
 
   var $html = angular.element(document.getElementsByTagName('html')[0]);
 

@@ -65,7 +65,7 @@ module.exports = function(grunt) {
             src: [
               'bower_components/bootstrap/dist/css/*',
               'bower_components/bootstrap/dist/fonts/*',
-              'app/assets/**',
+              'assets/**',
             ],
             dest: 'build/'
           }

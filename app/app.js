@@ -9,6 +9,6 @@ define([
     'ngRoute'
   ]).
   config(['$routeProvider', function($routeProvider) {
-    $routeProvider.otherwise();
+    $routeProvider.otherwise({});
   }]);
 });
