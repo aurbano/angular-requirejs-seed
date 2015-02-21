@@ -79,6 +79,7 @@ Some pending tasks/ideas I have for this sample app are:
 - Functional Angularjs app with several views, providers...
 - Non bootstrap option
 - Make this into a Yeoman generator
+- Add tests?
 
 ## Meta
 Developed by [Alejandro U. Alvarez](http://urbanoalvarez.es) - MIT License
