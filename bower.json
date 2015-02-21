@@ -1,0 +1,38 @@
+{
+  "name": "angular-requirejs-bower-grunt",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aurbano/angular-requirejs-bower-grunt",
+  "authors": [
+    "Alejandro U. Alvarez"
+  ],
+  "description": "Modern web stack starter project",
+  "main": "index.html",
+  "keywords": [
+    "stack",
+    "front-end",
+    "angular",
+    "grunt",
+    "requirejs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-bootstrap": "~0.12.0",
+    "requirejs": "~2.1.16",
+    "angular-route": "~1.3.13",
+    "angular-loader": "~1.3.13",
+    "almond": "~0.3.0"
+  },
+  "resolutions": {
+    "angular": "~1.3.13"
+  }
+}
