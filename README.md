@@ -1,6 +1,10 @@
 ![Angular Requirejs Bower Grunt](http://urbanoalvarez.es/angular-requirejs-bower-grunt/assets/logo.png)
 > Starter project with Angularjs Requirejs Bower Grunt and Bootstrap
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Dependencies](https://img.shields.io/david/aurbano/angular-requirejs-bower-grunt.svg?style=flat-square)
+![Badges](https://img.shields.io/badge/uses-badges-blue.svg?style=flat-square)
+
 ## Getting started
 
 Fork or Clone this project, rename and run the following to set your environment up. You'll need [npm](http://nodejs.org/download/) and [grunt](http://gruntjs.com/installing-grunt) for this to work.
