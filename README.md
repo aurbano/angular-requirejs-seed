@@ -7,7 +7,7 @@ Fork or Clone this project, rename and run the following to set your environment
 
 First install dependencies:
 
-```
+```sh
 $ npm install -g grunt-cli
 $ npm install -g bower
 $ npm install
@@ -20,7 +20,7 @@ Now just open `index.html` in your browser and let the magic happen!
 
 We are using [bower](http://bower.io/) to handle all the dependencies, to add a new one you can run any of the following:
 
-```
+```sh
 # registered package
 $ bower install jquery
 # GitHub shorthand
@@ -34,7 +34,7 @@ $ bower install http://example.com/script.js
 Once you are done, you need to update the routes in Requirejs for them to be available.
 Don't worry though, Grunt will do that for you, on the default task. Just run:
 
-```
+```sh
 $ grunt
 ```
 
@@ -61,7 +61,7 @@ To test open `build/index.html` in your browser.
 
 At the moment the sample is configured to deploy itself to Github Pages, to deploy simply run:
 
-```
+```sh
 $ grunt deploy
 ```
 
