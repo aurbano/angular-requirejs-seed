@@ -1,4 +1,4 @@
-# angular-requirejs-bower-grunt
+![Angular Requirejs Bower Grunt](http://urbanoalvarez.es/angular-requirejs-bower-grunt/assets/logo.png)
 > Starter project with Angularjs Requirejs Bower Grunt and Bootstrap
 
 ## Getting started
