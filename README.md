@@ -53,7 +53,7 @@ Behind the scenes grunt will:
 1. Delete the `build/` folder
 2. Minify and concatenate the app using Requirejs' optimizer
 3. Point the Requirejs script in `index.html` to the built file
-4. Copy the `app/assets/` folder and `bootstrap` to the `build` folder
+4. Copy the `assets/` folder and `bootstrap` to the `build` folder
 
 To test open `build/index.html` in your browser.
 
