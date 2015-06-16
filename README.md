@@ -83,3 +83,5 @@ Some pending tasks/ideas I have for this sample app are:
 
 ## Meta
 Developed by [Alejandro U. Alvarez](http://urbanoalvarez.es) - MIT License
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/angular-requirejs-seed/readme)](https://github.com/aurbano)
