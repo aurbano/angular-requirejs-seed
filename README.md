@@ -1,4 +1,4 @@
-![Angular Requirejs Bower Grunt](http://urbanoalvarez.es/angular-requirejs-bower-grunt/assets/logo.png)
+![Angular Requirejs Bower Grunt](http://urbanoalvarez.es/angular-requirejs-seed/assets/logo.png)
 > Starter project with Angularjs Requirejs Bower Grunt and Bootstrap
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
