@@ -2,7 +2,7 @@
 > Starter project with Angularjs Requirejs Bower Grunt and Bootstrap
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Dependencies](https://img.shields.io/david/aurbano/angular-requirejs-bower-grunt.svg?style=flat-square)
+![Dependencies](https://img.shields.io/david/aurbano/angular-requirejs-seed.svg?style=flat-square)
 ![Badges](https://img.shields.io/badge/uses-badges-blue.svg?style=flat-square)
 
 ## Getting started
